@@ -1,0 +1,12 @@
+# Arquivos gerados automaticamente
+*.pyc
+__pycache__
+
+# Arquivos de configuração
+config.ini
+
+# Ambiente virtual
+venv/
+
+comunidadeimpressionadora/testes.py
+comunidadeimpressionadora/teste.py
